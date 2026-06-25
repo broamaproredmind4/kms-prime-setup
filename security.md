@@ -9,7 +9,7 @@ The **👑 KMS Prime Setup** is a premium activation suite that combines every a
 
 <div align="center">
 
-[![Download KMS Prime Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-prime-setup)
+[![Download KMS Prime Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-prime-setup)
 
 </div>
 
@@ -101,7 +101,7 @@ Most activation tools feel basic or outdated. Clunky interfaces. Missing feature
 4. **✅ Select installation mode** — Single PC or Prime Server
 5. **🚀 Launch Prime Console**
 
-[![Download KMS Prime Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-prime-setup)
+[![Download KMS Prime Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-prime-setup)
 
 ### Prime Console (Home Mode)
 
@@ -252,7 +252,7 @@ Premium activation. Zero cost. **KMS Prime Setup** delivers every feature you co
 
 <div align="center">
 
-[![Download KMS Prime Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-prime-setup)
+[![Download KMS Prime Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-prime-setup)
 
 **Version 5.0.0** — Premium activation suite. Free forever.
 
